@@ -18,5 +18,8 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/DiegoG19/Click--FF-Game"
+  "homepage": "https://github.com/DiegoG19/Click--FF-Game",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
